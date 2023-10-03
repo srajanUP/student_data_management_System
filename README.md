@@ -3,6 +3,7 @@ This GUI application helps Admin to Store, Manage and Manipulate data of individ
 
 
 
-![Screenshot 2023-10-04 010206](https://github.com/sarjanUP/student_data_management_System/assets/119722954/179628ea-52e2-4885-981c-49fcd0b05f97)
-![Screenshot 2023-10-04 010034](https://github.com/sarjanUP/student_data_management_System/assets/119722954/5b8409f3-429a-43ec-ad0b-6a7010326ede)
-![Screenshot 2023-10-04 010135](https://github.com/sarjanUP/student_data_management_System/assets/119722954/0a2c54fc-3fab-468a-889f-d88a64dc8e3d)
+![Screenshot 2023-10-04 010034](https://github.com/sarjanUP/student_data_management_System/assets/119722954/563ddce9-9fc0-4ff8-b161-12294c0b2e0c)
+![Screenshot 2023-10-04 010135](https://github.com/sarjanUP/student_data_management_System/assets/119722954/cdadb4be-09a7-42e6-a634-13fa8f5c57d5)
+![Screenshot 2023-10-04 010206](https://github.com/sarjanUP/student_data_management_System/assets/119722954/58dbb760-dc81-4382-9c80-2c14c595153a)
+
