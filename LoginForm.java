@@ -306,6 +306,15 @@ public class LoginForm extends Application {
             public void handle(ActionEvent arg0) {
                 textArea.appendText(namTextField.getText()+"  "+ContactTextField.getText()+"  "+EmailTextField.getText()+"  "+GenderChoicebox.getValue()+"  "+DobdatePicker.getValue()+"  "+Streamchoicebox.getValue()+"\n");
                 textArea.setFont(Font.font(STYLESHEET_CASPIAN, FontWeight.BOLD, null, 20));
+
+                //creating the file and writing the data in the the .txt file.
+               try(PrintWriter write=new PrintWriter(new FileOutputStream("D:\\PROGRAMING_CODES\\java\\GUIInjava\\JavaFx\\Loginpage\\data.txt",true))){    //creating print writer object
+                write.write(namTextField.getText()+"  "+ContactTextField.getText()+"  "+EmailTextField.getText()+"  "+GenderChoicebox.getValue()+"  "+DobdatePicker.getValue()+"  "+Streamchoicebox.getValue()+"\n");
+                write.close();   // closing the file
+                }
+                catch(Exception e ){
+                    System.out.println(e);
+                }
             }
             
         });
