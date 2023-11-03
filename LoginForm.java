@@ -213,6 +213,8 @@ public class LoginForm extends Application {
         ContactTextField.setPromptText("Enter contact no.");
         gridnew.add(ContactTextField,0,3);
 
+        
+
 
 
         //adding label for contact
