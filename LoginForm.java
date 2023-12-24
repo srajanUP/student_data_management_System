@@ -34,7 +34,11 @@ public class LoginForm extends Application {
     
     //username and password
     public static String  name="nitj";
+<<<<<<< HEAD
     public static String pass="0123456";
+=======
+    public static String pass="1234567";
+>>>>>>> 5a87b91ab0cac0fe1133ba0fd7fc58916e55fd9f
 
 
     //start method
