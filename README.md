@@ -15,3 +15,4 @@ This GUI application helps Admin to Store, Manage and Manipulate data of individ
 
 Data is stored in .txt file
 ![Screenshot 2023-10-07 011138](https://github.com/sarjanUP/student_data_management_System/assets/119722954/bab7b537-a8c7-4a9c-bfb3-74f9c64d3460)
+![Screenshot 2024-02-19 010304](https://github.com/srajanUP/student_data_management_System/assets/119722954/d2dc11f9-dcb7-4f8c-b63f-300b23d47b85)
